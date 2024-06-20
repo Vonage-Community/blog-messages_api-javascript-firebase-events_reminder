@@ -1,7 +1,7 @@
 {
-    "name": "interactive-board",
+    "name": "blog-messages_api-javascript-firebase-events_reminder",
     "version": "1.0.0",
-    "description": "An interactive message board that receives SMS, MMS and WhatsApp messages, saves the content to the  database, and outputs them onto a webpage",
+    "description": "Events Reminder node.js project using Vonage Messages API and Firebase Firestore ",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
