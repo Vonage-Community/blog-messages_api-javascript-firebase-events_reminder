@@ -1,1 +1,3 @@
-events-reminder-store-credentials copy.json
+events-reminder-store-credentials.json
+.env
+/node_modules
